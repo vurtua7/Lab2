@@ -11,9 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
+    "eas": "^0.1.0",
     "ejs": "^2.5.7",
     "express": "^4.16.2",
-    "mongodb": "^3.0.1",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.0.2",
     "morgan": "^1.9.0"
   }
 }
